@@ -13,3 +13,5 @@ In this project, I worked on stack and queue instructions.
 ## Author
 
 Huseyn Israfilov
+
+Vasif Orujzada
